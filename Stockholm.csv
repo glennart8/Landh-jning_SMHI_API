@@ -1,0 +1,25 @@
+﻿Beräknade framtida medelvattenstånd (cm i RH 2000) för Stockholm kommun
+Medelvattenstånd 1995-2014: 15 cm i RH 2000
+Total landhöjning: 0,534 cm/år (varav den elastiska komponenten är 0,067 cm/år)
+
+Beräkningarna utförda av SMHI lanserades 19 januari 2022
+
+Referenser till bakomliggande data:
+IPCC, 2021: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Masson-Delmotte, V., P. Zhai, A. Pirani, S. L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J. B. R. Matthews, T. K. Maycock, T. Waterfield, O. Yelekçi, R. Yu and B. Zhou (eds.)]. Cambridge University Press. In Press.
+Vestøl, O., J. Ågren, H. Steffen, H. Kierulf, and L. Tarasov. 2019. NKG2016LU: A new land uplift model for Fennoscandia and the Baltic region. Journal of Geodesy 93: 1759-1779. https://doi.org/10.1007/s00190-019-01280-8
+Kierulf, H., H. Steffen, V. R. Barletta, M. Lidberg, J. Johansson, O. Kristiansen, L. Tarasov. 2021. A GNSS velocity field for geophysical applications in Fennoscandia. Journal of Geodynamics 146, 2021, 101845, https://doi.org/10.1016/j.jog.2021.101845
+
+År;SSP1-1,9 17:e percentil;SSP1-1,9 median;SSP1-1,9 83:e percentil;SSP1-2,6 17:e percentil;SSP1-2,6 median;SSP1-2,6 83:e percentil;SSP2-4,5 17:e percentil;SSP2-4,5 median;SSP2-4,5 83:e percentil;SSP3-7,0 17:e percentil;SSP3-7,0 median;SSP3-7,0 83:e percentil;SSP5-8,5 17:e percentil;SSP5-8,5 median;SSP5-8,5 83:e percentil;SSP1-2,6 mindre troligt 17:e percentil;SSP1-2,6 mindre troligt median;SSP1-2,6 mindre troligt 83:e percentil;SSP5-8,5 mindre troligt 17:e percentil;SSP5-8,5 mindre troligt median;SSP5-8,5 mindre troligt 83:e percentil
+2030;9;17;25;11;16;21;9;16;24;11;17;23;11;17;22;10;16;21;11;16;22
+2040;7;17;27;10;17;24;12;18;25;10;17;25;12;19;26;10;16;24;11;18;27
+2050;9;16;25;10;18;27;12;20;29;10;19;29;13;21;31;9;18;27;12;21;33
+2060;7;16;27;7;18;30;11;21;32;11;22;35;12;24;38;7;17;30;12;24;43
+2070;3;15;30;7;18;33;9;22;37;13;25;41;15;29;46;6;18;33;15;30;54
+2080;-1;14;33;3;17;34;9;23;41;14;29;47;20;35;54;3;17;34;20;37;67
+2090;-4;13;33;1;16;35;10;25;45;19;34;54;25;42;65;0;15;35;25;46;82
+2100;-8;13;37;-2;16;39;12;30;53;17;38;66;27;50;81;-4;15;39;27;58;101
+2110;-13;11;39;-9;13;40;7;29;58;10;38;73;21;51;90;-9;13;40;21;67;132
+2120;-16;10;42;-12;12;42;7;31;64;11;43;82;23;57;102;-12;13;42;23;81;180
+2130;-19;10;44;-15;11;44;6;33;70;12;47;92;26;64;114;-15;12;44;26;98;246
+2140;-22;9;46;-19;10;46;6;35;76;13;52;101;28;69;125;-19;12;48;28;116;337
+2150;-25;8;48;-23;9;48;5;37;81;14;56;110;30;75;136;-23;11;51;30;138;437
